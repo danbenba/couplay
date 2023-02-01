@@ -1,7 +1,7 @@
 # couplay
 
-Un lecteur de music 
+Un lecteur de music gratuit et facile a étuliser
 
-Nous sommes en prototypes 
+Pour le moments la version est une prototype
 
 
